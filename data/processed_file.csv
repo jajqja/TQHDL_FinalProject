@@ -1,4 +1,4 @@
-Address,Area,Frontage,Access Road,House direction,Balcony direction,Floors,Bedrooms,Bathrooms,Legal status,Furniture state,Price,Province,Project
+﻿Address,Area,Frontage,Access Road,House direction,Balcony direction,Floors,Bedrooms,Bathrooms,Legal status,Furniture state,Price,Province,Project
 "Đường Nguyễn Văn Khối, Phường 11, Gò Vấp, Hồ Chí Minh",54.0,0.0,3.5,Tây - Nam,Tây - Nam,2.0,2.0,3.0,Have certificate,Full,5.35,Hồ Chí Minh,No
 "Đường Quang Trung, Phường 8, Gò Vấp, Hồ Chí Minh",92.0,0.0,0.0,Đông - Nam,Đông - Nam,2.0,4.0,4.0,Have certificate,Full,6.9,Hồ Chí Minh,No
 "Dự án Him Lam Thường Tín, Huyện Thường Tín, Hà Nội",74.0,5.0,18.0,Nam,Nam,5.0,4.0,5.0,Have certificate,Empty,9.9,Hà Nội,Yes
